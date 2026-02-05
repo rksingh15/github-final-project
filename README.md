@@ -1,8 +1,23 @@
-# Simple Interest Calculator Project
+# github-final-project
 
-This project is created as part of the final assignment for the
-"Introduction to Git and GitHub" course.
+## Simple Interest Calculator
 
-It demonstrates basic GitHub repository structure, licensing,
-code of conduct, contribution guidelines, and a simple Bash script
-to calculate Simple Interest.
+This repository contains a Simple Interest Calculator project created
+as part of the final assignment for the course
+"Introduction to Git and GitHub".
+
+### Project Description
+The Simple Interest Calculator is implemented using a Bash script.
+It calculates simple interest based on the following user inputs:
+- Principal amount
+- Rate of interest
+- Time period (in years)
+
+### Formula Used
+Simple Interest = (Principal × Rate × Time) / 100
+
+### Purpose
+This project demonstrates:
+- Proper GitHub repository structure
+- Use of README, LICENSE, CODE_OF_CONDUCT, and CONTRIBUTING files
+- Basic GitHub UI and Git CLI operations
